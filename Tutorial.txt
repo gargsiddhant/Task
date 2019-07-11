@@ -10,3 +10,9 @@ mssql
 
 
 thank you for visiting
+
+Now I'm planning to do required changes like Serialization
+C#
+.NET
+Python
+Scripting
